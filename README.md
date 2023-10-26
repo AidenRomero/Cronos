@@ -1,4 +1,4 @@
-#ChronosClock
+## ChronosClock
 
 This is a location-based clock thaty updates per JavaScript's internal clock system. The background videos were created by Aiden Romero using Blender.
 
